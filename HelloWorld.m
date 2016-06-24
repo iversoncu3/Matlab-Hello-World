@@ -1,4 +1,4 @@
 clear all,clc;
 
-a='Hello World';
+a='Hello Github :)';
 a
